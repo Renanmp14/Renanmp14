@@ -4,6 +4,6 @@ Tenho 21 anos, sou residente de Canoas/RS, atualmente curso Ciência da Computa�
 
 
 - 🧰 Hoje trabalho na empresa SKA Automação de Engenharia;
-- 🕹 Tenha conhecimento inicial de Phyton, C, C++ e SQL;
-- 📟 Atualmente estou estudando C#; 
+- 🕹 Tenha conhecimento inicial de Phyton, C, C++, C# e SQL;
+- 📟 Atualmente estou estudando Java; 
 - 📫 Podem me contatar pelo email: renanmp@outlook.com;
