@@ -59,19 +59,26 @@
 
 ## 🚀 Em constante evolução
 
-<div align="center">
+Minha trajetória é marcada por transições entre áreas, sempre movido pela curiosidade e pela vontade de ir além:
 
-```
-Técnico em Eletrotécnica → Engenharia de Energia → Ciência da Computação
-        ↓
-    Desenvolvedor C# & SQL   →   Fullstack com Node.js
-        ↓
-    Plataforma MES   →   Lua Script + JavaScript + C#
-        ↓
-              🔭 Próximo desafio...
-```
+🔌 **Técnico em Eletrotécnica** — Fundação Liberato
+&nbsp;&nbsp;&nbsp;&nbsp;↓ Base técnica sólida em sistemas elétricos e automação
 
-</div>
+⚡ **Engenharia de Energia** — Unisinos *(2 semestres)*
+&nbsp;&nbsp;&nbsp;&nbsp;↓ Primeiro contato com o mundo acadêmico de exatas
+
+💻 **Ciência da Computação** — Unisinos *(cursando, 7º semestre)*
+&nbsp;&nbsp;&nbsp;&nbsp;↓ Mergulho completo no desenvolvimento de software
+
+🏭 **Desenvolvedor C# & SQL** — SKA Automação
+&nbsp;&nbsp;&nbsp;&nbsp;↓ Início da carreira profissional em sistemas industriais
+
+🌐 **Fullstack com Node.js** — expansão para o desenvolvimento web
+
+⚙️ **Plataforma MES proprietária** — Lua Script + JavaScript + C#
+&nbsp;&nbsp;&nbsp;&nbsp;↓ Desenvolvimento de soluções industriais de ponta
+
+🔭 **Próximo desafio...** *sempre em construção*
 
 ---
 
